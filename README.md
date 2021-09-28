@@ -1,3 +1,3 @@
 # Noroff-repo
 
-Noroff lesson 
+Noroff lesson 1.1
